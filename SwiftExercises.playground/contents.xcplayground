@@ -4,6 +4,7 @@
         <page name='Operators and data types'/>
         <page name='Working with constants and variables'/>
         <page name='Working with Strings in Swift'/>
-        <page name='Untitled Page'/>
+        <page name='Work with conditional statements in Swift'/>
+        <page name='Untitled Page 2'/>
     </pages>
 </playground>
