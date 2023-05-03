@@ -3,5 +3,7 @@
     <pages>
         <page name='Operators and data types'/>
         <page name='Working with constants and variables'/>
+        <page name='Working with Strings in Swift'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>
